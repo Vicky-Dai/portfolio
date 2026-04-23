@@ -21,7 +21,7 @@ export default function Hero() {
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.6, delay: 0.2 }}
           >
-            Hi, I'm{" "}
+            Hi, I&apos;m{" "}
             <span className="text-blue-600 dark:text-blue-400">
               Vicky Dai
             </span>

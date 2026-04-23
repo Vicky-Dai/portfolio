@@ -22,7 +22,7 @@ export default function Contact() {
           </h2>
           <div className="w-24 h-1 bg-blue-600 mx-auto mb-8"></div>
           <p className="text-lg text-gray-600 dark:text-gray-300 mb-12">
-            I'm always open to discussing new opportunities, interesting
+            I&apos;m always open to discussing new opportunities, interesting
             projects, or just having a chat. Feel free to reach out!
           </p>
 

@@ -24,7 +24,7 @@ export default function About() {
             <div>
               <p className="text-lg text-gray-600 dark:text-gray-300 mb-4">
                 Replace this with your professional summary. Write about your
-                background, what drives you, and what you're passionate about in
+                background, what drives you, and what you&apos;re passionate about in
                 your field.
               </p>
               <p className="text-lg text-gray-600 dark:text-gray-300 mb-4">
@@ -32,7 +32,7 @@ export default function About() {
                 and what makes you unique as a professional.
               </p>
               <p className="text-lg text-gray-600 dark:text-gray-300">
-                You can also mention your career goals, values, or what you're
+                You can also mention your career goals, values, or what you&apos;re
                 looking for in your next role.
               </p>
             </div>
